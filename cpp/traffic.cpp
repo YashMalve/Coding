@@ -113,7 +113,7 @@ int main() {
     CityMap map(5);
 
     // Set city names
-    map.setCityName(0, "Delhi");
+    map.setCityName(0, "Nashik");
     map.setCityName(1, "Mumbai");
     map.setCityName(2, "Chennai");
     map.setCityName(3, "Kolkata");
